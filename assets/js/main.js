@@ -42,7 +42,7 @@ $(function() {
     	//delay between words
     	delay: 250,
     	//text type
-    	text: ['icedoge<i>.</i>io'],
+    	text: ['Chanel<i>.</i>Blog'],
     	//callback
     	onTyped: function() { }
 	};
